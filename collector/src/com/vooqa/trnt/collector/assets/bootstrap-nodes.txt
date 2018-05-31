@@ -1,0 +1,4 @@
+router.utorrent.com
+router.bittorrent.com
+router.bitcomet.com
+dht.transmissionbt.com
